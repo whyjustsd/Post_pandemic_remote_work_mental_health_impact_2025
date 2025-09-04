@@ -1,4 +1,4 @@
-# Post_pandemic_remote_work_mental_health_impact_2025
+# Post_pandemic_work_mental_health_impact_2025
 Post-Pandemic Work Health Impact Dashboard
 This project is an interactive dashboard built in MS Excel to analyze the health and well-being of employees in post-pandemic work environments. It explores how different work arrangements—Onsite, Hybrid, and Remote—affect mental, physical, and social health.
 
@@ -20,4 +20,4 @@ Burnout levels and mental health concerns vary significantly across industries.
 
 Tools Used:
 MS Excel: Pivot Tables, Pivot Charts, Slicers, Formulas
-Report view - https://github.com/whyjustsd/Post_pandemic_remote_work_mental_health_impact_2025/blob/main/Report_Screenshot.png
+Report view -
