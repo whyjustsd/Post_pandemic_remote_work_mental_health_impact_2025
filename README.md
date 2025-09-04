@@ -20,3 +20,4 @@ Burnout levels and mental health concerns vary significantly across industries.
 
 Tools Used:
 MS Excel: Pivot Tables, Pivot Charts, Slicers, Formulas
+Report view - https://github.com/whyjustsd/Post_pandemic_remote_work_mental_health_impact_2025/blob/main/Report_Screenshot.png
