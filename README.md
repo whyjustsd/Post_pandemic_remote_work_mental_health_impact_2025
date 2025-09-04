@@ -1,4 +1,4 @@
-# Post_pandemic_work_mental_health_impact_2025
+# Post_pandemic_work_health_impact_2025
 Post-Pandemic Work Health Impact Dashboard
 This project is an interactive dashboard built in MS Excel to analyze the health and well-being of employees in post-pandemic work environments. It explores how different work arrangements—Onsite, Hybrid, and Remote—affect mental, physical, and social health.
 
